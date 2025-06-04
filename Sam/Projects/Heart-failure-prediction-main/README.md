@@ -18,6 +18,6 @@ There are various classification algorithms present out of which I shall impleme
 ● Random Forest
 ● XGBoost Classifier
 
-You can see results in our Report.pdf
+
 
 Happy Coding!!
